@@ -8,4 +8,5 @@ def my_collect(array)
   collection
 end
 
+array = ["Tom", "Victoria", "Wilson"]
 my_collect(array) {|i| i}
