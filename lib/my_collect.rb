@@ -7,6 +7,3 @@ def my_collect(array)
   end
   collection
 end
-
-array = ["Tom", "Victoria", "Wilson"]
-my_collect(array) {|i| i}
