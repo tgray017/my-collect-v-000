@@ -9,4 +9,4 @@ def my_collect(array)
 end
 
 array = ["Tom", "Victoria", "Wilson"]
-my_collect(array) {|i| i}
+my_collect(array) {|i| i}.upcase
